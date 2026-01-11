@@ -2,7 +2,9 @@
 
 <h2 align="center">About Me</h2>  
 <p align="center">
-I have a strong interest in C++. In the past, I worked on game-related projects, developing client and server-side scripts and taking part as a core developer. Currently, I focus on building web applications using the Node.js ecosystem, with NestJS for backend APIs and Next.js for full-stack development. Additionally, I have experience with .NET technologies, working with microservice architectures and the CQRS approach
+I have a strong interest in C++. In the past, I worked on game-related projects, developing client and server-side scripts and taking part as a core developer. 
+  
+Currently, I focus on building web applications using the Node.js ecosystem, with NestJS for backend APIs and Next.js for full-stack development. Additionally, I have experience with .NET technologies, working with microservice architectures and the CQRS approach
 </p>
 
 <hr>
